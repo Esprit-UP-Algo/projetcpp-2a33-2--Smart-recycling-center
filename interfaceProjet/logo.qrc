@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Maps.qml</file>
+        <file>MapsForm.ui.qml</file>
+    </qresource>
+</RCC>
